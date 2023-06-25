@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 
 namespace AdminP_QR_Code_.Controllers
 {
+    //Здесь был я
+
     [ApiController]
     [Route("api/pointsale")]
     public class PointSaleController : ControllerBase
